@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5EEDC',
     alignItems: 'center',
     justifyContent: 'center',
-    paddingHorizontal: 12
+    paddingHorizontal: 15
   },
   inputContainer: {
     backgroundColor: 'white',
