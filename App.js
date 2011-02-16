@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     borderColor: '#d7d7d7'
   },
   inputField: {
-    padding: 14,
+    padding: 16,
     fontSize: 22,
     width: '90%'
   }
