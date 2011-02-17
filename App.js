@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
   inputField: {
     padding: 16,
-    fontSize: 22,
+    fontSize: 20,
     width: '90%'
   }
 });
