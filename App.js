@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     flexDirection: 'row',
     alignItems: 'center',
-    borderWidth: 4,
+    borderWidth: 3,
     borderColor: '#d7d7d7'
   },
   inputField: {
